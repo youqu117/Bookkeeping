@@ -1,0 +1,7 @@
+{
+  "name": "ZenLedger",
+  "description": "A minimalist, card-style expense tracker with AI-powered financial insights. Features photo attachments, tag management, and smart sorting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
